@@ -1,4 +1,4 @@
-# Nanda Silva 
+# Nanda Silva 👾
 Oie! Me chamo Amanda Silva dos Santos.
 
 ## Sobre mim 
