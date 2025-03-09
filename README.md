@@ -1,5 +1,5 @@
 # Nanda Silva 
-Oie! Me chamo Amanda Silva dos Santos, estou contribuindo em um projeto Open Source do curso DIO, por meio deste profile.
+Oie! Me chamo Amanda Silva dos Santos.
 
 ## Sobre mim 
 Tenho 18 anos, sou estudante de ETEC no curso de Desenvolvimento de Sistemas, possuo pouco conhecimento em algumas linguagens como Kotlin e Java. Estou em constante busca de melhoria e aprendizado.
