@@ -2,7 +2,7 @@
 Oie! Me chamo Amanda Silva dos Santos.
 
 ## Sobre mim 
-Tenho 18 anos, sou estudante de ETEC no curso de Desenvolvimento de Sistemas, possuo pouco conhecimento em algumas linguagens como Kotlin e Java. Estou em constante busca de melhoria e aprendizado.
+Tenho 18 anos, sou estudante de ETEC no curso de Desenvolvimento de Sistemas, Experiências acadêmicas utilizando as linguagens Kotlin e Java. Estou em constante busca de melhoria e aprendizado.
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silva-7315952aa/)
