@@ -1,8 +1,7 @@
-# Nanda Silva 👾
-Oie! Me chamo Amanda Silva dos Santos.
+# Amanda Silva 👾
 
 ## Sobre mim 
-Tenho 18 anos, sou estudante de ETEC no curso de Desenvolvimento de Sistemas, Experiências acadêmicas utilizando as linguagens Kotlin e Java. Estou em constante busca de melhoria e aprendizado.
+Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Atualmente cursando Bacharelado em Sistemas de Informação na UNIP. Possuo experiência acadêmica com as linguagens Kotlin e Java. Estou em constante busca por aprimoramento profissional e novos conhecimentos na área de tecnologia.
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silva-7315952aa/)
