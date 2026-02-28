@@ -1,4 +1,5 @@
 # Amanda Silva 👾
+maaay.amanda@gmail.com
 
 ## Sobre mim 
 Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Atualmente cursando Bacharelado em Sistemas de Informação na UNIP. Possuo experiência acadêmica com as linguagens Kotlin e Java. Estou em constante busca por aprimoramento profissional e novos conhecimentos na área de tecnologia.
