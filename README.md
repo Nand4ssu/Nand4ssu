@@ -1,14 +1,14 @@
 # Amanda Silva 👾
 maaay.amanda@gmail.com
 
-## Sobre mim 
-Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Atualmente cursando Bacharelado em Sistemas de Informação na UNIP. Possuo experiência acadêmica com as linguagens Kotlin e Java. Estou em constante busca por aprimoramento profissional e novos conhecimentos na área de tecnologia.
+## About me 
+Technician in Systems Development from ETEC Uirapuru. Currently pursuing a Bachelor’s degree in Information Systems at UNIP. I have academic experience with Kotlin and Java programming languages. I am constantly seeking professional growth and new knowledge in the field of technology.
 
-## Conecte-se comigo!
+## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silva-7315952aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nand4ssu)
 
-## Habilidades 
+## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -20,5 +20,5 @@ Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Atualmente cursando 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nand4ssu&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## Principais Linguagens
+## Main programming languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nand4ssu&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
